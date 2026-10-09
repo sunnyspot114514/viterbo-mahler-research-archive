@@ -1,0 +1,16 @@
+{
+  "coding_workspace_attempt": "Devspace refused the sandbox directory as outside allowed roots; actual computation remained in sandbox.",
+  "date": "2026-09-27",
+  "external_source": {
+    "arxiv": "math/0606305v2",
+    "title": "Shadow systems and volumes of polar convex bodies",
+    "used": "Definition and Theorem 1; official PDF printed pages 2 and 3 read and screenshot-checked."
+  },
+  "inherited_geometry_sha256": "da53604fd15e3306fcdb5276c564d87ee8ef5d70eeee0f0d1ec85ee988677616",
+  "input_archive_sha256": "7d29addcaab4e0747c4e20a12389d5e998f3305cb138876dca91d4eb19bf8d71",
+  "input_manifest_files_checked": 12,
+  "input_mathematics_reexecuted": false,
+  "python": "3.13.5 (main, Jul 15 2026, 20:25:40) [GCC 14.2.0]",
+  "sympy": "1.14.0",
+  "version": "v61"
+}

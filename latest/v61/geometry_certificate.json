@@ -1,0 +1,3014 @@
+{
+  "all_dimensions_two_pair_Mahler_proved": false,
+  "dimension_counts": {
+    "2": 1,
+    "3": 1,
+    "4": 29
+  },
+  "double_dual_reconstructions": 2,
+  "finite_geometry_used_as_universal_sampling_proof": false,
+  "general_four_dimensional_Mahler_proved": false,
+  "independent_bridge_hulls": 27,
+  "independent_cap_intersections": 27,
+  "independently_reconstructed_pairs": 31,
+  "initial_automorphism_certificate": {
+    "diagonal_invariants": [
+      "5632813/26580314",
+      "43951183/212642512",
+      "50697823/212642512",
+      "37932079/212642512",
+      "47206879/212642512",
+      "40361013/212642512",
+      "37047093/212642512",
+      "38421573/212642512",
+      "37635813/212642512",
+      "5871133/26580314"
+    ],
+    "gram": [
+      [
+        "5632813/26580314",
+        "-1133214/13290157",
+        "-493854/13290157",
+        "-1426722/13290157",
+        "-787362/13290157",
+        "1018854/13290157",
+        "1658214/13290157",
+        "725346/13290157",
+        "1364706/13290157",
+        "650592/13290157"
+      ],
+      [
+        "-1133214/13290157",
+        "43951183/212642512",
+        "21886253/212642512",
+        "14741263/212642512",
+        "-7323667/212642512",
+        "25702945/212642512",
+        "3638015/212642512",
+        "-3506975/212642512",
+        "-25571905/212642512",
+        "1122294/13290157"
+      ],
+      [
+        "-493854/13290157",
+        "21886253/212642512",
+        "50697823/212642512",
+        "-6059587/212642512",
+        "22751983/212642512",
+        "-1392265/212642512",
+        "27419305/212642512",
+        "-29338105/212642512",
+        "-526535/212642512",
+        "653754/13290157"
+      ],
+      [
+        "-1426722/13290157",
+        "14741263/212642512",
+        "-6059587/212642512",
+        "37932079/212642512",
+        "17131229/212642512",
+        "-1467143/212642512",
+        "-22267993/212642512",
+        "21723673/212642512",
+        "922823/212642512",
+        "1472082/13290157"
+      ],
+      [
+        "-787362/13290157",
+        "-7323667/212642512",
+        "22751983/212642512",
+        "17131229/212642512",
+        "47206879/212642512",
+        "-28562353/212642512",
+        "1513297/212642512",
+        "-4107457/212642512",
+        "25968193/212642512",
+        "1003542/13290157"
+      ],
+      [
+        "1018854/13290157",
+        "25702945/212642512",
+        "-1392265/212642512",
+        "-1467143/212642512",
+        "-28562353/212642512",
+        "40361013/212642512",
+        "13265803/212642512",
+        "13190925/212642512",
+        "-13904285/212642512",
+        "1206471/13290157"
+      ],
+      [
+        "1658214/13290157",
+        "3638015/212642512",
+        "27419305/212642512",
+        "-22267993/212642512",
+        "1513297/212642512",
+        "13265803/212642512",
+        "37047093/212642512",
+        "-12640205/212642512",
+        "11141085/212642512",
+        "737931/13290157"
+      ],
+      [
+        "725346/13290157",
+        "-3506975/212642512",
+        "-29338105/212642512",
+        "21723673/212642512",
+        "-4107457/212642512",
+        "13190925/212642512",
+        "-12640205/212642512",
+        "38421573/212642512",
+        "12590443/212642512",
+        "1556259/13290157"
+      ],
+      [
+        "1364706/13290157",
+        "-25571905/212642512",
+        "-526535/212642512",
+        "922823/212642512",
+        "25968193/212642512",
+        "-13904285/212642512",
+        "11141085/212642512",
+        "12590443/212642512",
+        "37635813/212642512",
+        "1087719/13290157"
+      ],
+      [
+        "650592/13290157",
+        "1122294/13290157",
+        "653754/13290157",
+        "1472082/13290157",
+        "1003542/13290157",
+        "1206471/13290157",
+        "737931/13290157",
+        "1556259/13290157",
+        "1087719/13290157",
+        "5871133/26580314"
+      ]
+    ],
+    "group": "I and -I",
+    "proof": "Distinct diagonal invariants fix each vertex line; nonzero cross terms force a common sign.",
+    "representatives": [
+      [
+        "2/3",
+        "7/3",
+        "-1/4",
+        "3/5"
+      ],
+      [
+        "1",
+        "-1",
+        "-1",
+        "-1"
+      ],
+      [
+        "1",
+        "-1",
+        "-1",
+        "1"
+      ],
+      [
+        "1",
+        "-1",
+        "1",
+        "-1"
+      ],
+      [
+        "1",
+        "-1",
+        "1",
+        "1"
+      ],
+      [
+        "1",
+        "1",
+        "-1",
+        "-1"
+      ],
+      [
+        "1",
+        "1",
+        "-1",
+        "1"
+      ],
+      [
+        "1",
+        "1",
+        "1",
+        "-1"
+      ],
+      [
+        "1",
+        "1",
+        "1",
+        "1"
+      ],
+      [
+        "5/2",
+        "1/2",
+        "1/3",
+        "-2/5"
+      ]
+    ]
+  },
+  "monotone_path_segments": 6,
+  "path": {
+    "q_terminal": [
+      "5/2",
+      "1",
+      "1",
+      "-1"
+    ],
+    "r_terminal": [
+      "1",
+      "7/3",
+      "-1",
+      "1"
+    ],
+    "steps": [
+      {
+        "constant_primal_volume": true,
+        "coordinate": 2,
+        "denominator_certificate": {
+          "basis": "Bernstein x nonnegative monomials",
+          "bounded": [
+            "s"
+          ],
+          "coefficients": [
+            {
+              "bernstein_indices": [
+                0
+              ],
+              "coefficient": "51090861609433245600",
+              "monomial_powers": []
+            },
+            {
+              "bernstein_indices": [
+                1
+              ],
+              "coefficient": "50114006600084907480",
+              "monomial_powers": []
+            },
+            {
+              "bernstein_indices": [
+                2
+              ],
+              "coefficient": "48175629973227797040",
+              "monomial_powers": []
+            },
+            {
+              "bernstein_indices": [
+                3
+              ],
+              "coefficient": "45317249835996738600",
+              "monomial_powers": []
+            },
+            {
+              "bernstein_indices": [
+                4
+              ],
+              "coefficient": "41731359230562281280",
+              "monomial_powers": []
+            }
+          ],
+          "degrees": [
+            4
+          ],
+          "minimum_positive": "41731359230562281280",
+          "positive": 5,
+          "reverse_reconstruction": true,
+          "unbounded": [],
+          "zero": 0
+        },
+        "exact_product_along_segment": "(2512655631426590720*s**4 + 2763921194569249792*s**3 - 91139253033048659808*s**2 - 65194780573147737992*s + 723107557361080399235)/(150974935035724800*s**4 + 166072428539297280*s**3 - 5769129705052633920*s**2 - 3907420037393352480*s + 51090861609433245600)",
+        "initial_product_derivative": "-42616324265209131/146743722325345600",
+        "interval": [
+          "-1",
+          "1"
+        ],
+        "nonpositive_derivative_certificate": {
+          "basis": "Bernstein x nonnegative monomials",
+          "bounded": [
+            "s"
+          ],
+          "coefficients": [
+            {
+              "bernstein_indices": [
+                0
+              ],
+              "coefficient": "505372553096809588153423582549509482400",
+              "monomial_powers": []
+            },
+            {
+              "bernstein_indices": [
+                1
+              ],
+              "coefficient": "699245223008308761966170464548633399840",
+              "monomial_powers": []
+            },
+            {
+              "bernstein_indices": [
+                2
+              ],
+              "coefficient": "888780806960748776727217691399426593440",
+              "monomial_powers": []
+            },
+            {
+              "bernstein_indices": [
+                3
+              ],
+              "coefficient": "1066292804201663676257106510463185826080",
+              "monomial_powers": []
+            },
+            {
+              "bernstein_indices": [
+                4
+              ],
+              "coefficient": "1224241788454262843308326814530054575520",
+              "monomial_powers": []
+            },
+            {
+              "bernstein_indices": [
+                5
+              ],
+              "coefficient": "1356707594789354841789349991858863802400",
+              "monomial_powers": []
+            }
+          ],
+          "degrees": [
+            5
+          ],
+          "minimum_positive": "505372553096809588153423582549509482400",
+          "positive": 6,
+          "reverse_reconstruction": true,
+          "unbounded": [],
+          "zero": 0
+        },
+        "primal_volume_affine": true,
+        "product_after": "181085818480810333/13210306815625920",
+        "product_before": "1589247378815561317/112287607932820320",
+        "product_mid": "502049500332479101/35856547070984640",
+        "q_after": [
+          "5/2",
+          "1/2",
+          "1",
+          "-2/5"
+        ],
+        "q_before": [
+          "5/2",
+          "1/2",
+          "1/3",
+          "-2/5"
+        ],
+        "q_mid": [
+          "5/2",
+          "1/2",
+          "2/3",
+          "-2/5"
+        ],
+        "r_after": [
+          "2/3",
+          "7/3",
+          "-1/4",
+          "3/5"
+        ],
+        "r_before": [
+          "2/3",
+          "7/3",
+          "-1/4",
+          "3/5"
+        ],
+        "r_mid": [
+          "2/3",
+          "7/3",
+          "-1/4",
+          "3/5"
+        ],
+        "selected_endpoint": "1",
+        "start": [
+          "5/2",
+          "1/2",
+          "1/3",
+          "-2/5"
+        ],
+        "which_vector": 0
+      },
+      {
+        "constant_primal_volume": true,
+        "coordinate": 3,
+        "denominator_certificate": {
+          "basis": "Bernstein x nonnegative monomials",
+          "bounded": [
+            "s"
+          ],
+          "coefficients": [
+            {
+              "bernstein_indices": [
+                0
+              ],
+              "coefficient": "13210306815625920",
+              "monomial_powers": []
+            },
+            {
+              "bernstein_indices": [
+                1
+              ],
+              "coefficient": "13067565129178560",
+              "monomial_powers": []
+            },
+            {
+              "bernstein_indices": [
+                2
+              ],
+              "coefficient": "12715020478480320",
+              "monomial_powers": []
+            },
+            {
+              "bernstein_indices": [
+                3
+              ],
+              "coefficient": "12154410202334400",
+              "monomial_powers": []
+            },
+            {
+              "bernstein_indices": [
+                4
+              ],
+              "coefficient": "11413531721592000",
+              "monomial_powers": []
+            }
+          ],
+          "degrees": [
+            4
+          ],
+          "minimum_positive": "11413531721592000",
+          "positive": 5,
+          "reverse_reconstruction": true,
+          "unbounded": [],
+          "zero": 0
+        },
+        "exact_product_along_segment": "(433714456627200*s**4 + 115657188433920*s**3 - 19726162520263572*s**2 - 11192435366201456*s + 181085818480810333)/(26060082048000*s**4 + 6949355212800*s**3 - 1258817785505280*s**2 - 570966745789440*s + 13210306815625920)",
+        "initial_product_derivative": "31270455791428075/73642227919980993",
+        "interval": [
+          "-1",
+          "1"
+        ],
+        "nonpositive_derivative_certificate": {
+          "basis": "Bernstein x nonnegative monomials",
+          "bounded": [
+            "s"
+          ],
+          "coefficients": [
+            {
+              "bernstein_indices": [
+                0
+              ],
+              "coefficient": "44461524714978174667268461056000",
+              "monomial_powers": []
+            },
+            {
+              "bernstein_indices": [
+                1
+              ],
+              "coefficient": "57515368787441242538616583027200",
+              "monomial_powers": []
+            },
+            {
+              "bernstein_indices": [
+                2
+              ],
+              "coefficient": "70771007067596437605182315136000",
+              "monomial_powers": []
+            },
+            {
+              "bernstein_indices": [
+                3
+              ],
+              "coefficient": "83821934893302550051871924160000",
+              "monomial_powers": []
+            },
+            {
+              "bernstein_indices": [
+                4
+              ],
+              "coefficient": "96236925494280326587325894400000",
+              "monomial_powers": []
+            },
+            {
+              "bernstein_indices": [
+                5
+              ],
+              "coefficient": "107623834108238123576901000000000",
+              "monomial_powers": []
+            }
+          ],
+          "degrees": [
+            5
+          ],
+          "minimum_positive": "44461524714978174667268461056000",
+          "positive": 6,
+          "reverse_reconstruction": true,
+          "unbounded": [],
+          "zero": 0
+        },
+        "primal_volume_affine": true,
+        "product_after": "6028663689576257/456541268863680",
+        "product_before": "181085818480810333/13210306815625920",
+        "product_mid": "888539710779881/65690710525440",
+        "q_after": [
+          "5/2",
+          "1/2",
+          "1",
+          "-1"
+        ],
+        "q_before": [
+          "5/2",
+          "1/2",
+          "1",
+          "-2/5"
+        ],
+        "q_mid": [
+          "5/2",
+          "1/2",
+          "1",
+          "-7/10"
+        ],
+        "r_after": [
+          "2/3",
+          "7/3",
+          "-1/4",
+          "3/5"
+        ],
+        "r_before": [
+          "2/3",
+          "7/3",
+          "-1/4",
+          "3/5"
+        ],
+        "r_mid": [
+          "2/3",
+          "7/3",
+          "-1/4",
+          "3/5"
+        ],
+        "selected_endpoint": "-1",
+        "start": [
+          "5/2",
+          "1/2",
+          "1",
+          "-2/5"
+        ],
+        "which_vector": 0
+      },
+      {
+        "constant_primal_volume": true,
+        "coordinate": 2,
+        "denominator_certificate": {
+          "basis": "Bernstein x nonnegative monomials",
+          "bounded": [
+            "s"
+          ],
+          "coefficients": [
+            {
+              "bernstein_indices": [
+                0
+              ],
+              "coefficient": "148375912380696000",
+              "monomial_powers": []
+            },
+            {
+              "bernstein_indices": [
+                1
+              ],
+              "coefficient": "150285377828796210",
+              "monomial_powers": []
+            },
+            {
+              "bernstein_indices": [
+                2
+              ],
+              "coefficient": "147475439954628786",
+              "monomial_powers": []
+            },
+            {
+              "bernstein_indices": [
+                3
+              ],
+              "coefficient": "139677696673515000",
+              "monomial_powers": []
+            },
+            {
+              "bernstein_indices": [
+                4
+              ],
+              "coefficient": "127831555281830400",
+              "monomial_powers": []
+            }
+          ],
+          "degrees": [
+            4
+          ],
+          "minimum_positive": "127831555281830400",
+          "positive": 5,
+          "reverse_reconstruction": true,
+          "unbounded": [],
+          "zero": 0
+        },
+        "exact_product_along_segment": "(18593919589023207*s**4 - 16527928523576184*s**3 - 411427968737088528*s**2 + 72430334522461980*s + 1959315699112283525)/(1207809381054276*s**4 - 1073608338714912*s**3 - 28316419933605804*s**2 + 7637861792400840*s + 148375912380696000)",
+        "initial_product_derivative": "5328951388118911/20860105595472000",
+        "interval": [
+          "-1",
+          "1"
+        ],
+        "nonpositive_derivative_certificate": {
+          "basis": "Bernstein x nonnegative monomials",
+          "bounded": [
+            "s"
+          ],
+          "coefficients": [
+            {
+              "bernstein_indices": [
+                0
+              ],
+              "coefficient": "4218065548691531359111798590081000",
+              "monomial_powers": []
+            },
+            {
+              "bernstein_indices": [
+                1
+              ],
+              "coefficient": "6444143197384380820243666038844560",
+              "monomial_powers": []
+            },
+            {
+              "bernstein_indices": [
+                2
+              ],
+              "coefficient": "8884009706036450248083706268423040",
+              "monomial_powers": []
+            },
+            {
+              "bernstein_indices": [
+                3
+              ],
+              "coefficient": "11390396358411492963158408769538560",
+              "monomial_powers": []
+            },
+            {
+              "bernstein_indices": [
+                4
+              ],
+              "coefficient": "13778053134640849687490834480824320",
+              "monomial_powers": []
+            },
+            {
+              "bernstein_indices": [
+                5
+              ],
+              "coefficient": "15882922061274887077360692510720000",
+              "monomial_powers": []
+            }
+          ],
+          "degrees": [
+            5
+          ],
+          "minimum_positive": "4218065548691531359111798590081000",
+          "positive": 6,
+          "reverse_reconstruction": true,
+          "unbounded": [],
+          "zero": 0
+        },
+        "primal_volume_affine": true,
+        "product_after": "36213929820605/2853382930398",
+        "product_before": "6028663689576257/456541268863680",
+        "product_mid": "426314366895348577/32688907118303436",
+        "q_after": [
+          "5/2",
+          "1/2",
+          "1",
+          "-1"
+        ],
+        "q_before": [
+          "5/2",
+          "1/2",
+          "1",
+          "-1"
+        ],
+        "q_mid": [
+          "5/2",
+          "1/2",
+          "1",
+          "-1"
+        ],
+        "r_after": [
+          "2/3",
+          "7/3",
+          "-1",
+          "3/5"
+        ],
+        "r_before": [
+          "2/3",
+          "7/3",
+          "-1/4",
+          "3/5"
+        ],
+        "r_mid": [
+          "2/3",
+          "7/3",
+          "-5/8",
+          "3/5"
+        ],
+        "selected_endpoint": "-1",
+        "start": [
+          "2/3",
+          "7/3",
+          "-1/4",
+          "3/5"
+        ],
+        "which_vector": 1
+      },
+      {
+        "constant_primal_volume": true,
+        "coordinate": 3,
+        "denominator_certificate": {
+          "basis": "Bernstein x nonnegative monomials",
+          "bounded": [
+            "s"
+          ],
+          "coefficients": [
+            {
+              "bernstein_indices": [
+                0
+              ],
+              "coefficient": "5706765860796",
+              "monomial_powers": []
+            },
+            {
+              "bernstein_indices": [
+                1
+              ],
+              "coefficient": "11215097744445/2",
+              "monomial_powers": []
+            },
+            {
+              "bernstein_indices": [
+                2
+              ],
+              "coefficient": "5455899921150",
+              "monomial_powers": []
+            },
+            {
+              "bernstein_indices": [
+                3
+              ],
+              "coefficient": "10507146103125/2",
+              "monomial_powers": []
+            },
+            {
+              "bernstein_indices": [
+                4
+              ],
+              "coefficient": "5006149312500",
+              "monomial_powers": []
+            }
+          ],
+          "degrees": [
+            4
+          ],
+          "minimum_positive": "5006149312500",
+          "positive": 5,
+          "reverse_reconstruction": true,
+          "unbounded": [],
+          "zero": 0
+        },
+        "exact_product_along_segment": "(58915773792*s**4 + 108012251952*s**3 - 4525681570155*s**2 - 6626633528049*s + 72427859641210)/(3827005056*s**4 + 7016175936*s**3 - 314591774994*s**2 - 396867954294*s + 5706765860796)",
+        "initial_product_derivative": "-2902791928783610/4168081811518911",
+        "interval": [
+          "-1",
+          "1"
+        ],
+        "nonpositive_derivative_certificate": {
+          "basis": "Bernstein x nonnegative monomials",
+          "bounded": [
+            "s"
+          ],
+          "coefficients": [
+            {
+              "bernstein_indices": [
+                0
+              ],
+              "coefficient": "9072349500176208376611264",
+              "monomial_powers": []
+            },
+            {
+              "bernstein_indices": [
+                1
+              ],
+              "coefficient": "10289067963316064995907520",
+              "monomial_powers": []
+            },
+            {
+              "bernstein_indices": [
+                2
+              ],
+              "coefficient": "11502174860361925130729520",
+              "monomial_powers": []
+            },
+            {
+              "bernstein_indices": [
+                3
+              ],
+              "coefficient": "12687330089670168303327600",
+              "monomial_powers": []
+            },
+            {
+              "bernstein_indices": [
+                4
+              ],
+              "coefficient": "13819451880747031633800000",
+              "monomial_powers": []
+            },
+            {
+              "bernstein_indices": [
+                5
+              ],
+              "coefficient": "14875146017451691965000000",
+              "monomial_powers": []
+            }
+          ],
+          "degrees": [
+            5
+          ],
+          "minimum_positive": "9072349500176208376611264",
+          "positive": 6,
+          "reverse_reconstruction": true,
+          "unbounded": [],
+          "zero": 0
+        },
+        "primal_volume_affine": true,
+        "product_after": "1404399373/114426270",
+        "product_before": "36213929820605/2853382930398",
+        "product_mid": "272001225008011/21723200598834",
+        "q_after": [
+          "5/2",
+          "1/2",
+          "1",
+          "-1"
+        ],
+        "q_before": [
+          "5/2",
+          "1/2",
+          "1",
+          "-1"
+        ],
+        "q_mid": [
+          "5/2",
+          "1/2",
+          "1",
+          "-1"
+        ],
+        "r_after": [
+          "2/3",
+          "7/3",
+          "-1",
+          "1"
+        ],
+        "r_before": [
+          "2/3",
+          "7/3",
+          "-1",
+          "3/5"
+        ],
+        "r_mid": [
+          "2/3",
+          "7/3",
+          "-1",
+          "4/5"
+        ],
+        "selected_endpoint": "1",
+        "start": [
+          "2/3",
+          "7/3",
+          "-1",
+          "3/5"
+        ],
+        "which_vector": 1
+      },
+      {
+        "constant_primal_volume": false,
+        "coordinate": 1,
+        "denominator_certificate": {
+          "basis": "Bernstein x nonnegative monomials",
+          "bounded": [
+            "s"
+          ],
+          "coefficients": [
+            {
+              "bernstein_indices": [
+                0
+              ],
+              "coefficient": "420516542250",
+              "monomial_powers": []
+            },
+            {
+              "bernstein_indices": [
+                1
+              ],
+              "coefficient": "415930263525",
+              "monomial_powers": []
+            },
+            {
+              "bernstein_indices": [
+                2
+              ],
+              "coefficient": "409920502950",
+              "monomial_powers": []
+            },
+            {
+              "bernstein_indices": [
+                3
+              ],
+              "coefficient": "402551260650",
+              "monomial_powers": []
+            },
+            {
+              "bernstein_indices": [
+                4
+              ],
+              "coefficient": "393902611200",
+              "monomial_powers": []
+            },
+            {
+              "bernstein_indices": [
+                5
+              ],
+              "coefficient": "384072192000",
+              "monomial_powers": []
+            }
+          ],
+          "degrees": [
+            5
+          ],
+          "minimum_positive": "384072192000",
+          "positive": 6,
+          "reverse_reconstruction": true,
+          "unbounded": [],
+          "zero": 0
+        },
+        "exact_product_along_segment": "(91924*s**6 + 28573811*s**5 + 1311913291*s**4 + 9413400902*s**3 - 219578198270*s**2 - 325406647993*s + 5161167695775)/(1488375*s**5 + 80372250*s**4 + 640001250*s**3 - 14234818500*s**2 - 22931393625*s + 420516542250)",
+        "initial_product_derivative": "-129788093621/620762514750",
+        "interval": [
+          "1/5",
+          "1"
+        ],
+        "nonpositive_derivative_certificate": {
+          "basis": "Bernstein x nonnegative monomials",
+          "bounded": [
+            "s"
+          ],
+          "coefficients": [
+            {
+              "bernstein_indices": [
+                0
+              ],
+              "coefficient": "18486110442728487769875",
+              "monomial_powers": []
+            },
+            {
+              "bernstein_indices": [
+                1
+              ],
+              "coefficient": "22259706301241485783875",
+              "monomial_powers": []
+            },
+            {
+              "bernstein_indices": [
+                2
+              ],
+              "coefficient": "25980654591149522154975",
+              "monomial_powers": []
+            },
+            {
+              "bernstein_indices": [
+                3
+              ],
+              "coefficient": "29644519788767715057450",
+              "monomial_powers": []
+            },
+            {
+              "bernstein_indices": [
+                4
+              ],
+              "coefficient": "33246788221376068062150",
+              "monomial_powers": []
+            },
+            {
+              "bernstein_indices": [
+                5
+              ],
+              "coefficient": "36782878009341904492500",
+              "monomial_powers": []
+            },
+            {
+              "bernstein_indices": [
+                6
+              ],
+              "coefficient": "40248149804788632336000",
+              "monomial_powers": []
+            },
+            {
+              "bernstein_indices": [
+                7
+              ],
+              "coefficient": "43637918299151485075200",
+              "monomial_powers": []
+            },
+            {
+              "bernstein_indices": [
+                8
+              ],
+              "coefficient": "46947464460396062438400",
+              "monomial_powers": []
+            },
+            {
+              "bernstein_indices": [
+                9
+              ],
+              "coefficient": "50172048447633045964800",
+              "monomial_powers": []
+            },
+            {
+              "bernstein_indices": [
+                10
+              ],
+              "coefficient": "53306923136205570048000",
+              "monomial_powers": []
+            }
+          ],
+          "degrees": [
+            10
+          ],
+          "minimum_positive": "18486110442728487769875",
+          "positive": 11,
+          "reverse_reconstruction": true,
+          "unbounded": [],
+          "zero": 0
+        },
+        "primal_volume_affine": true,
+        "product_after": "66940637/5556600",
+        "product_before": "1404399373/114426270",
+        "product_mid": "38640913397/3169345725",
+        "q_after": [
+          "5/2",
+          "1",
+          "1",
+          "-1"
+        ],
+        "q_before": [
+          "5/2",
+          "1/2",
+          "1",
+          "-1"
+        ],
+        "q_mid": [
+          "5/2",
+          "3/4",
+          "1",
+          "-1"
+        ],
+        "r_after": [
+          "2/3",
+          "7/3",
+          "-1",
+          "1"
+        ],
+        "r_before": [
+          "2/3",
+          "7/3",
+          "-1",
+          "1"
+        ],
+        "r_mid": [
+          "2/3",
+          "7/3",
+          "-1",
+          "1"
+        ],
+        "selected_endpoint": "1",
+        "start": [
+          "5/2",
+          "1/2",
+          "1",
+          "-1"
+        ],
+        "which_vector": 0
+      },
+      {
+        "constant_primal_volume": false,
+        "coordinate": 0,
+        "denominator_certificate": {
+          "basis": "Bernstein x nonnegative monomials",
+          "bounded": [
+            "s"
+          ],
+          "coefficients": [
+            {
+              "bernstein_indices": [
+                0
+              ],
+              "coefficient": "44452800",
+              "monomial_powers": []
+            },
+            {
+              "bernstein_indices": [
+                1
+              ],
+              "coefficient": "42394800",
+              "monomial_powers": []
+            },
+            {
+              "bernstein_indices": [
+                2
+              ],
+              "coefficient": "40156725",
+              "monomial_powers": []
+            },
+            {
+              "bernstein_indices": [
+                3
+              ],
+              "coefficient": "37815750",
+              "monomial_powers": []
+            }
+          ],
+          "degrees": [
+            3
+          ],
+          "minimum_positive": "37815750",
+          "positive": 4,
+          "reverse_reconstruction": true,
+          "unbounded": [],
+          "zero": 0
+        },
+        "exact_product_along_segment": "(1152400*s**3 - 8066800*s**2 - 79920832*s + 535525096)/(77175*s**3 - 540225*s**2 - 6174000*s + 44452800)",
+        "initial_product_derivative": "-72713/194400",
+        "interval": [
+          "0",
+          "1"
+        ],
+        "nonpositive_derivative_certificate": {
+          "basis": "Bernstein x nonnegative monomials",
+          "bounded": [
+            "s"
+          ],
+          "coefficients": [
+            {
+              "bernstein_indices": [
+                0
+              ],
+              "coefficient": "246372818025600",
+              "monomial_powers": []
+            },
+            {
+              "bernstein_indices": [
+                1
+              ],
+              "coefficient": "292564686061200",
+              "monomial_powers": []
+            },
+            {
+              "bernstein_indices": [
+                2
+              ],
+              "coefficient": "326648566083000",
+              "monomial_powers": []
+            },
+            {
+              "bernstein_indices": [
+                3
+              ],
+              "coefficient": "350518512871800",
+              "monomial_powers": []
+            }
+          ],
+          "degrees": [
+            3
+          ],
+          "minimum_positive": "246372818025600",
+          "positive": 4,
+          "reverse_reconstruction": true,
+          "unbounded": [],
+          "zero": 0
+        },
+        "primal_volume_affine": true,
+        "product_after": "1526156/128625",
+        "product_before": "66940637/5556600",
+        "product_mid": "29255824/2443875",
+        "q_after": [
+          "5/2",
+          "1",
+          "1",
+          "-1"
+        ],
+        "q_before": [
+          "5/2",
+          "1",
+          "1",
+          "-1"
+        ],
+        "q_mid": [
+          "5/2",
+          "1",
+          "1",
+          "-1"
+        ],
+        "r_after": [
+          "1",
+          "7/3",
+          "-1",
+          "1"
+        ],
+        "r_before": [
+          "2/3",
+          "7/3",
+          "-1",
+          "1"
+        ],
+        "r_mid": [
+          "5/6",
+          "7/3",
+          "-1",
+          "1"
+        ],
+        "selected_endpoint": "1",
+        "start": [
+          "2/3",
+          "7/3",
+          "-1",
+          "1"
+        ],
+        "which_vector": 1
+      }
+    ],
+    "terminal_kind": "mutual-coordinate corner",
+    "terminal_product": "1526156/128625",
+    "terminates_at_equality_not_claimed": true
+  },
+  "records": [
+    {
+      "dimension": 4,
+      "double_dual_bases": 35960,
+      "facets": 32,
+      "formula": {
+        "base_polar": "2/3",
+        "delta_minus": "-1/2",
+        "delta_plus": "11/6",
+        "dimension": 4,
+        "naive_polar": "4037911751/8261072820",
+        "naive_primal": "82/3",
+        "overlap_minus": "0",
+        "overlap_plus": "1449459/422873920",
+        "polar": "6183841940916581/12476400881424480",
+        "polar_overlap_correction": "1449459/211436960",
+        "primal": "257/9",
+        "primal_bridge": "11/9",
+        "product": "1589247378815561317/112287607932820320",
+        "single_cap_pairs": [
+          "16875/179452",
+          "50176/598455"
+        ]
+      },
+      "local_corrections": [
+        {
+          "bridge_volume": "11/18",
+          "overlap_bases": 3060,
+          "overlap_vertices": 6,
+          "overlap_volume": "1449459/422873920",
+          "sign": 1
+        }
+      ],
+      "name": "generic asymmetric one-overlap input",
+      "polar_bases_enumerated": 4845,
+      "polar_triangulation": {
+        "boundary_simplices": 128,
+        "nonzero_origin_cones": 128
+      },
+      "polar_volume": "6183841940916581/12476400881424480",
+      "primal_triangulation": {
+        "boundary_simplices": 72,
+        "nonzero_origin_cones": 72
+      },
+      "primal_volume": "257/9",
+      "product": "1589247378815561317/112287607932820320",
+      "q": [
+        "5/2",
+        "1/2",
+        "1/3",
+        "-2/5"
+      ],
+      "r": [
+        "2/3",
+        "7/3",
+        "-1/4",
+        "3/5"
+      ],
+      "vertices": 20
+    },
+    {
+      "dimension": 4,
+      "facets": 30,
+      "formula": {
+        "base_polar": "2/3",
+        "delta_minus": "-1/2",
+        "delta_plus": "11/6",
+        "dimension": 4,
+        "naive_polar": "1608510721/3401618220",
+        "naive_primal": "82/3",
+        "overlap_minus": "0",
+        "overlap_plus": "161051/44876416",
+        "polar": "704614079691869/1467811868402880",
+        "polar_overlap_correction": "161051/22438208",
+        "primal": "257/9",
+        "primal_bridge": "11/9",
+        "product": "181085818480810333/13210306815625920",
+        "single_cap_pairs": [
+          "625/5684",
+          "50176/598455"
+        ]
+      },
+      "local_corrections": [],
+      "name": "path end 1",
+      "polar_bases_enumerated": 4845,
+      "polar_triangulation": {
+        "boundary_simplices": 119,
+        "nonzero_origin_cones": 119
+      },
+      "polar_volume": "704614079691869/1467811868402880",
+      "primal_triangulation": {
+        "boundary_simplices": 74,
+        "nonzero_origin_cones": 74
+      },
+      "primal_volume": "257/9",
+      "product": "181085818480810333/13210306815625920",
+      "q": [
+        "5/2",
+        "1/2",
+        "1",
+        "-2/5"
+      ],
+      "r": [
+        "2/3",
+        "7/3",
+        "-1/4",
+        "3/5"
+      ],
+      "vertices": 20
+    },
+    {
+      "dimension": 4,
+      "facets": 32,
+      "formula": {
+        "base_polar": "2/3",
+        "delta_minus": "-1/2",
+        "delta_plus": "11/6",
+        "dimension": 4,
+        "naive_polar": "4463109457/9232963740",
+        "naive_primal": "82/3",
+        "overlap_minus": "0",
+        "overlap_plus": "11979/3452032",
+        "polar": "1953500001293693/3984060785664960",
+        "polar_overlap_correction": "11979/1726016",
+        "primal": "257/9",
+        "primal_bridge": "11/9",
+        "product": "502049500332479101/35856547070984640",
+        "single_cap_pairs": [
+          "16875/169708",
+          "50176/598455"
+        ]
+      },
+      "local_corrections": [],
+      "name": "path midpoint 1",
+      "polar_bases_enumerated": 4845,
+      "polar_triangulation": {
+        "boundary_simplices": 128,
+        "nonzero_origin_cones": 128
+      },
+      "polar_volume": "1953500001293693/3984060785664960",
+      "primal_triangulation": {
+        "boundary_simplices": 72,
+        "nonzero_origin_cones": 72
+      },
+      "primal_volume": "257/9",
+      "product": "502049500332479101/35856547070984640",
+      "q": [
+        "5/2",
+        "1/2",
+        "2/3",
+        "-2/5"
+      ],
+      "r": [
+        "2/3",
+        "7/3",
+        "-1/4",
+        "3/5"
+      ],
+      "vertices": 20
+    },
+    {
+      "dimension": 4,
+      "facets": 28,
+      "formula": {
+        "base_polar": "2/3",
+        "delta_minus": "-1/2",
+        "delta_plus": "11/6",
+        "dimension": 4,
+        "naive_polar": "53402249/117297180",
+        "naive_primal": "82/3",
+        "overlap_minus": "0",
+        "overlap_plus": "161051/44976256",
+        "polar": "23457835368001/50726807651520",
+        "polar_overlap_correction": "161051/22488128",
+        "primal": "257/9",
+        "primal_bridge": "11/9",
+        "product": "6028663689576257/456541268863680",
+        "single_cap_pairs": [
+          "25/196",
+          "50176/598455"
+        ]
+      },
+      "local_corrections": [],
+      "name": "path end 2",
+      "polar_bases_enumerated": 4845,
+      "polar_triangulation": {
+        "boundary_simplices": 108,
+        "nonzero_origin_cones": 108
+      },
+      "polar_volume": "23457835368001/50726807651520",
+      "primal_triangulation": {
+        "boundary_simplices": 71,
+        "nonzero_origin_cones": 71
+      },
+      "primal_volume": "257/9",
+      "product": "6028663689576257/456541268863680",
+      "q": [
+        "5/2",
+        "1/2",
+        "1",
+        "-1"
+      ],
+      "r": [
+        "2/3",
+        "7/3",
+        "-1/4",
+        "3/5"
+      ],
+      "vertices": 20
+    },
+    {
+      "dimension": 4,
+      "facets": 30,
+      "formula": {
+        "base_polar": "2/3",
+        "delta_minus": "-1/2",
+        "delta_plus": "11/6",
+        "dimension": 4,
+        "naive_polar": "500360723/1072431360",
+        "naive_primal": "82/3",
+        "overlap_minus": "0",
+        "overlap_plus": "161051/45300736",
+        "polar": "3457352960233/7298967836160",
+        "polar_overlap_correction": "161051/22650368",
+        "primal": "257/9",
+        "primal_bridge": "11/9",
+        "product": "888539710779881/65690710525440",
+        "single_cap_pairs": [
+          "625/5376",
+          "50176/598455"
+        ]
+      },
+      "local_corrections": [],
+      "name": "path midpoint 2",
+      "polar_bases_enumerated": 4845,
+      "polar_triangulation": {
+        "boundary_simplices": 119,
+        "nonzero_origin_cones": 119
+      },
+      "polar_volume": "3457352960233/7298967836160",
+      "primal_triangulation": {
+        "boundary_simplices": 74,
+        "nonzero_origin_cones": 74
+      },
+      "primal_volume": "257/9",
+      "product": "888539710779881/65690710525440",
+      "q": [
+        "5/2",
+        "1/2",
+        "1",
+        "-7/10"
+      ],
+      "r": [
+        "2/3",
+        "7/3",
+        "-1/4",
+        "3/5"
+      ],
+      "vertices": 20
+    },
+    {
+      "dimension": 4,
+      "facets": 26,
+      "formula": {
+        "base_polar": "2/3",
+        "delta_minus": "-1/2",
+        "delta_plus": "11/6",
+        "dimension": 4,
+        "naive_polar": "331147/756756",
+        "naive_primal": "82/3",
+        "overlap_minus": "0",
+        "overlap_plus": "161051/46922344",
+        "polar": "140910232765/317042547822",
+        "polar_overlap_correction": "161051/23461172",
+        "primal": "257/9",
+        "primal_bridge": "11/9",
+        "product": "36213929820605/2853382930398",
+        "single_cap_pairs": [
+          "25/196",
+          "392/3861"
+        ]
+      },
+      "local_corrections": [],
+      "name": "path end 3",
+      "polar_bases_enumerated": 4845,
+      "polar_triangulation": {
+        "boundary_simplices": 96,
+        "nonzero_origin_cones": 96
+      },
+      "polar_volume": "140910232765/317042547822",
+      "primal_triangulation": {
+        "boundary_simplices": 71,
+        "nonzero_origin_cones": 71
+      },
+      "primal_volume": "257/9",
+      "product": "36213929820605/2853382930398",
+      "q": [
+        "5/2",
+        "1/2",
+        "1",
+        "-1"
+      ],
+      "r": [
+        "2/3",
+        "7/3",
+        "-1",
+        "3/5"
+      ],
+      "vertices": 20
+    },
+    {
+      "dimension": 4,
+      "facets": 28,
+      "formula": {
+        "base_polar": "2/3",
+        "delta_minus": "-1/2",
+        "delta_plus": "11/6",
+        "dimension": 4,
+        "naive_polar": "990936949/2202916716",
+        "naive_primal": "82/3",
+        "overlap_minus": "0",
+        "overlap_plus": "805255/234125198",
+        "polar": "1658810766129761/3632100790922604",
+        "polar_overlap_correction": "805255/117062599",
+        "primal": "257/9",
+        "primal_bridge": "11/9",
+        "product": "426314366895348577/32688907118303436",
+        "single_cap_pairs": [
+          "25/196",
+          "1003520/11239371"
+        ]
+      },
+      "local_corrections": [],
+      "name": "path midpoint 3",
+      "polar_bases_enumerated": 4845,
+      "polar_triangulation": {
+        "boundary_simplices": 108,
+        "nonzero_origin_cones": 108
+      },
+      "polar_volume": "1658810766129761/3632100790922604",
+      "primal_triangulation": {
+        "boundary_simplices": 71,
+        "nonzero_origin_cones": 71
+      },
+      "primal_volume": "257/9",
+      "product": "426314366895348577/32688907118303436",
+      "q": [
+        "5/2",
+        "1/2",
+        "1",
+        "-1"
+      ],
+      "r": [
+        "2/3",
+        "7/3",
+        "-5/8",
+        "3/5"
+      ],
+      "vertices": 20
+    },
+    {
+      "dimension": 4,
+      "facets": 24,
+      "formula": {
+        "base_polar": "2/3",
+        "delta_minus": "-1/2",
+        "delta_plus": "11/6",
+        "dimension": 4,
+        "naive_polar": "279793/661500",
+        "naive_primal": "82/3",
+        "overlap_minus": "0",
+        "overlap_plus": "161051/47089000",
+        "polar": "5464589/12714030",
+        "polar_overlap_correction": "161051/23544500",
+        "primal": "257/9",
+        "primal_bridge": "11/9",
+        "product": "1404399373/114426270",
+        "single_cap_pairs": [
+          "25/196",
+          "392/3375"
+        ]
+      },
+      "local_corrections": [],
+      "name": "path end 4",
+      "polar_bases_enumerated": 4845,
+      "polar_triangulation": {
+        "boundary_simplices": 86,
+        "nonzero_origin_cones": 86
+      },
+      "polar_volume": "5464589/12714030",
+      "primal_triangulation": {
+        "boundary_simplices": 69,
+        "nonzero_origin_cones": 69
+      },
+      "primal_volume": "257/9",
+      "product": "1404399373/114426270",
+      "q": [
+        "5/2",
+        "1/2",
+        "1",
+        "-1"
+      ],
+      "r": [
+        "2/3",
+        "7/3",
+        "-1",
+        "1"
+      ],
+      "vertices": 20
+    },
+    {
+      "dimension": 4,
+      "facets": 26,
+      "formula": {
+        "base_polar": "2/3",
+        "delta_minus": "-1/2",
+        "delta_plus": "11/6",
+        "dimension": 4,
+        "naive_polar": "2469437/5720652",
+        "naive_primal": "82/3",
+        "overlap_minus": "0",
+        "overlap_plus": "161051/47255656",
+        "polar": "1058370525323/2413688955426",
+        "polar_overlap_correction": "161051/23627828",
+        "primal": "257/9",
+        "primal_bridge": "11/9",
+        "product": "272001225008011/21723200598834",
+        "single_cap_pairs": [
+          "25/196",
+          "3136/29187"
+        ]
+      },
+      "local_corrections": [],
+      "name": "path midpoint 4",
+      "polar_bases_enumerated": 4845,
+      "polar_triangulation": {
+        "boundary_simplices": 96,
+        "nonzero_origin_cones": 96
+      },
+      "polar_volume": "1058370525323/2413688955426",
+      "primal_triangulation": {
+        "boundary_simplices": 71,
+        "nonzero_origin_cones": 71
+      },
+      "primal_volume": "257/9",
+      "product": "272001225008011/21723200598834",
+      "q": [
+        "5/2",
+        "1/2",
+        "1",
+        "-1"
+      ],
+      "r": [
+        "2/3",
+        "7/3",
+        "-1",
+        "4/5"
+      ],
+      "vertices": 20
+    },
+    {
+      "dimension": 4,
+      "facets": 20,
+      "formula": {
+        "base_polar": "2/3",
+        "delta_minus": "-4/3",
+        "delta_plus": "2",
+        "dimension": 4,
+        "naive_polar": "468544/1157625",
+        "naive_primal": "82/3",
+        "overlap_minus": "0",
+        "overlap_plus": "31/4000",
+        "polar": "1556759/3704400",
+        "polar_overlap_correction": "31/2000",
+        "primal": "86/3",
+        "primal_bridge": "4/3",
+        "product": "66940637/5556600",
+        "single_cap_pairs": [
+          "50/343",
+          "392/3375"
+        ]
+      },
+      "local_corrections": [],
+      "name": "path end 5",
+      "polar_bases_enumerated": 4845,
+      "polar_triangulation": {
+        "boundary_simplices": 67,
+        "nonzero_origin_cones": 67
+      },
+      "polar_volume": "1556759/3704400",
+      "primal_triangulation": {
+        "boundary_simplices": 58,
+        "nonzero_origin_cones": 58
+      },
+      "primal_volume": "86/3",
+      "product": "66940637/5556600",
+      "q": [
+        "5/2",
+        "1",
+        "1",
+        "-1"
+      ],
+      "r": [
+        "2/3",
+        "7/3",
+        "-1",
+        "1"
+      ],
+      "vertices": 18
+    },
+    {
+      "dimension": 4,
+      "facets": 24,
+      "formula": {
+        "base_polar": "2/3",
+        "delta_minus": "-11/12",
+        "delta_plus": "23/12",
+        "dimension": 4,
+        "naive_polar": "6259822/15049125",
+        "naive_primal": "82/3",
+        "overlap_minus": "0",
+        "overlap_plus": "8954912/1760747625",
+        "polar": "750308998/1760747625",
+        "polar_overlap_correction": "17909824/1760747625",
+        "primal": "515/18",
+        "primal_bridge": "23/18",
+        "product": "38640913397/3169345725",
+        "single_cap_pairs": [
+          "600/4459",
+          "392/3375"
+        ]
+      },
+      "local_corrections": [],
+      "name": "path midpoint 5",
+      "polar_bases_enumerated": 4845,
+      "polar_triangulation": {
+        "boundary_simplices": 86,
+        "nonzero_origin_cones": 86
+      },
+      "polar_volume": "750308998/1760747625",
+      "primal_triangulation": {
+        "boundary_simplices": 69,
+        "nonzero_origin_cones": 69
+      },
+      "primal_volume": "515/18",
+      "product": "38640913397/3169345725",
+      "q": [
+        "5/2",
+        "3/4",
+        "1",
+        "-1"
+      ],
+      "r": [
+        "2/3",
+        "7/3",
+        "-1",
+        "1"
+      ],
+      "vertices": 20
+    },
+    {
+      "dimension": 4,
+      "double_dual_bases": 1820,
+      "facets": 16,
+      "formula": {
+        "base_polar": "2/3",
+        "delta_minus": "-2",
+        "delta_plus": "2",
+        "dimension": 4,
+        "naive_polar": "16731/42875",
+        "naive_primal": "82/3",
+        "overlap_minus": "0",
+        "overlap_plus": "29/2450",
+        "polar": "17746/42875",
+        "polar_overlap_correction": "29/1225",
+        "primal": "86/3",
+        "primal_bridge": "4/3",
+        "product": "1526156/128625",
+        "single_cap_pairs": [
+          "50/343",
+          "49/375"
+        ]
+      },
+      "local_corrections": [],
+      "name": "path end 6",
+      "polar_bases_enumerated": 4845,
+      "polar_triangulation": {
+        "boundary_simplices": 51,
+        "nonzero_origin_cones": 51
+      },
+      "polar_volume": "17746/42875",
+      "primal_triangulation": {
+        "boundary_simplices": 48,
+        "nonzero_origin_cones": 48
+      },
+      "primal_volume": "86/3",
+      "product": "1526156/128625",
+      "q": [
+        "5/2",
+        "1",
+        "1",
+        "-1"
+      ],
+      "r": [
+        "1",
+        "7/3",
+        "-1",
+        "1"
+      ],
+      "vertices": 16
+    },
+    {
+      "dimension": 4,
+      "facets": 20,
+      "formula": {
+        "base_polar": "2/3",
+        "delta_minus": "-5/3",
+        "delta_plus": "2",
+        "dimension": 4,
+        "naive_polar": "1753576/4398975",
+        "naive_primal": "82/3",
+        "overlap_minus": "0",
+        "overlap_plus": "32/3375",
+        "polar": "340184/814625",
+        "polar_overlap_correction": "64/3375",
+        "primal": "86/3",
+        "primal_bridge": "4/3",
+        "product": "29255824/2443875",
+        "single_cap_pairs": [
+          "50/343",
+          "1568/12825"
+        ]
+      },
+      "local_corrections": [],
+      "name": "path midpoint 6",
+      "polar_bases_enumerated": 4845,
+      "polar_triangulation": {
+        "boundary_simplices": 67,
+        "nonzero_origin_cones": 67
+      },
+      "polar_volume": "340184/814625",
+      "primal_triangulation": {
+        "boundary_simplices": 58,
+        "nonzero_origin_cones": 58
+      },
+      "primal_volume": "86/3",
+      "product": "29255824/2443875",
+      "q": [
+        "5/2",
+        "1",
+        "1",
+        "-1"
+      ],
+      "r": [
+        "5/6",
+        "7/3",
+        "-1",
+        "1"
+      ],
+      "vertices": 18
+    },
+    {
+      "dimension": 4,
+      "facets": 20,
+      "formula": {
+        "base_polar": "2/3",
+        "delta_minus": "2",
+        "delta_plus": "2",
+        "dimension": 4,
+        "naive_polar": "493/1296",
+        "naive_primal": "28",
+        "overlap_minus": "7/1296",
+        "overlap_plus": "7/2400",
+        "polar": "268/675",
+        "polar_overlap_correction": "539/32400",
+        "primal": "92/3",
+        "primal_bridge": "8/3",
+        "product": "24656/2025",
+        "single_cap_pairs": [
+          "8/81",
+          "3/16"
+        ]
+      },
+      "local_corrections": [
+        {
+          "bridge_volume": "2/3",
+          "overlap_bases": 3060,
+          "overlap_vertices": 6,
+          "overlap_volume": "7/2400",
+          "sign": 1
+        },
+        {
+          "bridge_volume": "2/3",
+          "overlap_bases": 3060,
+          "overlap_vertices": 6,
+          "overlap_volume": "7/1296",
+          "sign": -1
+        }
+      ],
+      "name": "opposed corner, k=0",
+      "polar_bases_enumerated": 4845,
+      "polar_triangulation": {
+        "boundary_simplices": 66,
+        "nonzero_origin_cones": 66
+      },
+      "polar_volume": "268/675",
+      "primal_triangulation": {
+        "boundary_simplices": 48,
+        "nonzero_origin_cones": 48
+      },
+      "primal_volume": "92/3",
+      "product": "24656/2025",
+      "q": [
+        "2",
+        "1",
+        "1",
+        "1"
+      ],
+      "r": [
+        "-1",
+        "3",
+        "-1",
+        "-1"
+      ],
+      "vertices": 16
+    },
+    {
+      "dimension": 4,
+      "facets": 16,
+      "formula": {
+        "base_polar": "2/3",
+        "delta_minus": "-2",
+        "delta_plus": "2",
+        "dimension": 4,
+        "naive_polar": "493/1296",
+        "naive_primal": "28",
+        "overlap_minus": "0",
+        "overlap_plus": "5/432",
+        "polar": "523/1296",
+        "polar_overlap_correction": "5/216",
+        "primal": "88/3",
+        "primal_bridge": "4/3",
+        "product": "5753/486",
+        "single_cap_pairs": [
+          "8/81",
+          "3/16"
+        ]
+      },
+      "local_corrections": [
+        {
+          "bridge_volume": "2/3",
+          "overlap_bases": 3060,
+          "overlap_vertices": 6,
+          "overlap_volume": "5/432",
+          "sign": 1
+        }
+      ],
+      "name": "same corner one overlap, k=0",
+      "polar_bases_enumerated": 4845,
+      "polar_triangulation": {
+        "boundary_simplices": 51,
+        "nonzero_origin_cones": 51
+      },
+      "polar_volume": "523/1296",
+      "primal_triangulation": {
+        "boundary_simplices": 48,
+        "nonzero_origin_cones": 48
+      },
+      "primal_volume": "88/3",
+      "product": "5753/486",
+      "q": [
+        "2",
+        "1",
+        "1",
+        "1"
+      ],
+      "r": [
+        "1",
+        "3",
+        "-1",
+        "-1"
+      ],
+      "vertices": 16
+    },
+    {
+      "dimension": 4,
+      "facets": 16,
+      "formula": {
+        "base_polar": "2/3",
+        "delta_minus": "2",
+        "delta_plus": "6",
+        "dimension": 4,
+        "naive_polar": "1339/6000",
+        "naive_primal": "36",
+        "overlap_minus": "11/12000",
+        "overlap_plus": "11/400",
+        "polar": "7/25",
+        "polar_overlap_correction": "341/6000",
+        "primal": "124/3",
+        "primal_bridge": "16/3",
+        "product": "868/75",
+        "single_cap_pairs": [
+          "3/16",
+          "32/125"
+        ]
+      },
+      "local_corrections": [
+        {
+          "bridge_volume": "2",
+          "overlap_bases": 3060,
+          "overlap_vertices": 6,
+          "overlap_volume": "11/400",
+          "sign": 1
+        },
+        {
+          "bridge_volume": "2/3",
+          "overlap_bases": 3060,
+          "overlap_vertices": 6,
+          "overlap_volume": "11/12000",
+          "sign": -1
+        }
+      ],
+      "name": "same corner two overlaps, k=0",
+      "polar_bases_enumerated": 4845,
+      "polar_triangulation": {
+        "boundary_simplices": 50,
+        "nonzero_origin_cones": 50
+      },
+      "polar_volume": "7/25",
+      "primal_triangulation": {
+        "boundary_simplices": 40,
+        "nonzero_origin_cones": 40
+      },
+      "primal_volume": "124/3",
+      "product": "868/75",
+      "q": [
+        "3",
+        "1",
+        "1",
+        "1"
+      ],
+      "r": [
+        "1",
+        "4",
+        "-1",
+        "-1"
+      ],
+      "vertices": 14
+    },
+    {
+      "dimension": 4,
+      "facets": 22,
+      "formula": {
+        "base_polar": "2/3",
+        "delta_minus": "0",
+        "delta_plus": "7/5",
+        "dimension": 4,
+        "naive_polar": "92282/214455",
+        "naive_primal": "138/5",
+        "overlap_minus": "0",
+        "overlap_plus": "16807/18800640",
+        "polar": "40188451/93007872",
+        "polar_overlap_correction": "16807/9400320",
+        "primal": "428/15",
+        "primal_bridge": "14/15",
+        "product": "4300164257/348779520",
+        "single_cap_pairs": [
+          "6/35",
+          "6498/100079"
+        ]
+      },
+      "local_corrections": [
+        {
+          "bridge_volume": "7/15",
+          "overlap_bases": 3060,
+          "overlap_vertices": 6,
+          "overlap_volume": "16807/18800640",
+          "sign": 1
+        }
+      ],
+      "name": "touch wall, k=0",
+      "polar_bases_enumerated": 4845,
+      "polar_triangulation": {
+        "boundary_simplices": 78,
+        "nonzero_origin_cones": 78
+      },
+      "polar_volume": "40188451/93007872",
+      "primal_triangulation": {
+        "boundary_simplices": 60,
+        "nonzero_origin_cones": 60
+      },
+      "primal_volume": "428/15",
+      "product": "4300164257/348779520",
+      "q": [
+        "3",
+        "1/2",
+        "1",
+        "1"
+      ],
+      "r": [
+        "1/5",
+        "19/10",
+        "-1",
+        "-1"
+      ],
+      "vertices": 18
+    },
+    {
+      "dimension": 4,
+      "facets": 20,
+      "formula": {
+        "base_polar": "2/3",
+        "delta_minus": "2",
+        "delta_plus": "2",
+        "dimension": 4,
+        "naive_polar": "493/1296",
+        "naive_primal": "28",
+        "overlap_minus": "7/2592",
+        "overlap_plus": "7/1440",
+        "polar": "2563/6480",
+        "polar_overlap_correction": "49/3240",
+        "primal": "92/3",
+        "primal_bridge": "8/3",
+        "product": "58949/4860",
+        "single_cap_pairs": [
+          "8/81",
+          "3/16"
+        ]
+      },
+      "local_corrections": [
+        {
+          "bridge_volume": "2/3",
+          "overlap_bases": 3060,
+          "overlap_vertices": 6,
+          "overlap_volume": "7/1440",
+          "sign": 1
+        },
+        {
+          "bridge_volume": "2/3",
+          "overlap_bases": 3060,
+          "overlap_vertices": 6,
+          "overlap_volume": "7/2592",
+          "sign": -1
+        }
+      ],
+      "name": "opposed corner, k=1",
+      "polar_bases_enumerated": 4845,
+      "polar_triangulation": {
+        "boundary_simplices": 69,
+        "nonzero_origin_cones": 69
+      },
+      "polar_volume": "2563/6480",
+      "primal_triangulation": {
+        "boundary_simplices": 49,
+        "nonzero_origin_cones": 49
+      },
+      "primal_volume": "92/3",
+      "product": "58949/4860",
+      "q": [
+        "2",
+        "1",
+        "1",
+        "1"
+      ],
+      "r": [
+        "-1",
+        "3",
+        "1",
+        "-1"
+      ],
+      "vertices": 16
+    },
+    {
+      "dimension": 4,
+      "facets": 18,
+      "formula": {
+        "base_polar": "2/3",
+        "delta_minus": "-2",
+        "delta_plus": "2",
+        "dimension": 4,
+        "naive_polar": "493/1296",
+        "naive_primal": "28",
+        "overlap_minus": "0",
+        "overlap_plus": "5/288",
+        "polar": "269/648",
+        "polar_overlap_correction": "5/144",
+        "primal": "88/3",
+        "primal_bridge": "4/3",
+        "product": "2959/243",
+        "single_cap_pairs": [
+          "8/81",
+          "3/16"
+        ]
+      },
+      "local_corrections": [
+        {
+          "bridge_volume": "2/3",
+          "overlap_bases": 3060,
+          "overlap_vertices": 6,
+          "overlap_volume": "5/288",
+          "sign": 1
+        }
+      ],
+      "name": "same corner one overlap, k=1",
+      "polar_bases_enumerated": 4845,
+      "polar_triangulation": {
+        "boundary_simplices": 59,
+        "nonzero_origin_cones": 59
+      },
+      "polar_volume": "269/648",
+      "primal_triangulation": {
+        "boundary_simplices": 51,
+        "nonzero_origin_cones": 51
+      },
+      "primal_volume": "88/3",
+      "product": "2959/243",
+      "q": [
+        "2",
+        "1",
+        "1",
+        "1"
+      ],
+      "r": [
+        "1",
+        "3",
+        "1",
+        "-1"
+      ],
+      "vertices": 16
+    },
+    {
+      "dimension": 4,
+      "facets": 20,
+      "formula": {
+        "base_polar": "2/3",
+        "delta_minus": "2",
+        "delta_plus": "6",
+        "dimension": 4,
+        "naive_polar": "1339/6000",
+        "naive_primal": "36",
+        "overlap_minus": "11/36000",
+        "overlap_plus": "11/320",
+        "polar": "10531/36000",
+        "polar_overlap_correction": "2497/36000",
+        "primal": "124/3",
+        "primal_bridge": "16/3",
+        "product": "326461/27000",
+        "single_cap_pairs": [
+          "3/16",
+          "32/125"
+        ]
+      },
+      "local_corrections": [
+        {
+          "bridge_volume": "2",
+          "overlap_bases": 3060,
+          "overlap_vertices": 6,
+          "overlap_volume": "11/320",
+          "sign": 1
+        },
+        {
+          "bridge_volume": "2/3",
+          "overlap_bases": 3060,
+          "overlap_vertices": 6,
+          "overlap_volume": "11/36000",
+          "sign": -1
+        }
+      ],
+      "name": "same corner two overlaps, k=1",
+      "polar_bases_enumerated": 4845,
+      "polar_triangulation": {
+        "boundary_simplices": 66,
+        "nonzero_origin_cones": 66
+      },
+      "polar_volume": "10531/36000",
+      "primal_triangulation": {
+        "boundary_simplices": 47,
+        "nonzero_origin_cones": 47
+      },
+      "primal_volume": "124/3",
+      "product": "326461/27000",
+      "q": [
+        "3",
+        "1",
+        "1",
+        "1"
+      ],
+      "r": [
+        "1",
+        "4",
+        "1",
+        "-1"
+      ],
+      "vertices": 16
+    },
+    {
+      "dimension": 4,
+      "facets": 20,
+      "formula": {
+        "base_polar": "2/3",
+        "delta_minus": "0",
+        "delta_plus": "7/5",
+        "dimension": 4,
+        "naive_polar": "92282/214455",
+        "naive_primal": "138/5",
+        "overlap_minus": "0",
+        "overlap_plus": "49/24480",
+        "polar": "52597/121104",
+        "polar_overlap_correction": "49/12240",
+        "primal": "428/15",
+        "primal_bridge": "14/15",
+        "product": "5627879/454140",
+        "single_cap_pairs": [
+          "6/35",
+          "6498/100079"
+        ]
+      },
+      "local_corrections": [
+        {
+          "bridge_volume": "7/15",
+          "overlap_bases": 3060,
+          "overlap_vertices": 6,
+          "overlap_volume": "49/24480",
+          "sign": 1
+        }
+      ],
+      "name": "touch wall, k=1",
+      "polar_bases_enumerated": 4845,
+      "polar_triangulation": {
+        "boundary_simplices": 71,
+        "nonzero_origin_cones": 71
+      },
+      "polar_volume": "52597/121104",
+      "primal_triangulation": {
+        "boundary_simplices": 65,
+        "nonzero_origin_cones": 65
+      },
+      "primal_volume": "428/15",
+      "product": "5627879/454140",
+      "q": [
+        "3",
+        "1/2",
+        "1",
+        "1"
+      ],
+      "r": [
+        "1/5",
+        "19/10",
+        "1",
+        "-1"
+      ],
+      "vertices": 20
+    },
+    {
+      "dimension": 4,
+      "facets": 20,
+      "formula": {
+        "base_polar": "2/3",
+        "delta_minus": "2",
+        "delta_plus": "2",
+        "dimension": 4,
+        "naive_polar": "493/1296",
+        "naive_primal": "28",
+        "overlap_minus": "7/5184",
+        "overlap_plus": "7/864",
+        "polar": "115/288",
+        "polar_overlap_correction": "49/2592",
+        "primal": "92/3",
+        "primal_bridge": "8/3",
+        "product": "2645/216",
+        "single_cap_pairs": [
+          "8/81",
+          "3/16"
+        ]
+      },
+      "local_corrections": [
+        {
+          "bridge_volume": "2/3",
+          "overlap_bases": 3060,
+          "overlap_vertices": 6,
+          "overlap_volume": "7/864",
+          "sign": 1
+        },
+        {
+          "bridge_volume": "2/3",
+          "overlap_bases": 3060,
+          "overlap_vertices": 6,
+          "overlap_volume": "7/5184",
+          "sign": -1
+        }
+      ],
+      "name": "opposed corner, k=2",
+      "polar_bases_enumerated": 4845,
+      "polar_triangulation": {
+        "boundary_simplices": 67,
+        "nonzero_origin_cones": 67
+      },
+      "polar_volume": "115/288",
+      "primal_triangulation": {
+        "boundary_simplices": 50,
+        "nonzero_origin_cones": 50
+      },
+      "primal_volume": "92/3",
+      "product": "2645/216",
+      "q": [
+        "2",
+        "1",
+        "1",
+        "1"
+      ],
+      "r": [
+        "-1",
+        "3",
+        "1",
+        "1"
+      ],
+      "vertices": 16
+    },
+    {
+      "dimension": 4,
+      "facets": 20,
+      "formula": {
+        "base_polar": "2/3",
+        "delta_minus": "-2",
+        "delta_plus": "2",
+        "dimension": 4,
+        "naive_polar": "493/1296",
+        "naive_primal": "28",
+        "overlap_minus": "0",
+        "overlap_plus": "5/192",
+        "polar": "1121/2592",
+        "polar_overlap_correction": "5/96",
+        "primal": "88/3",
+        "primal_bridge": "4/3",
+        "product": "12331/972",
+        "single_cap_pairs": [
+          "8/81",
+          "3/16"
+        ]
+      },
+      "local_corrections": [
+        {
+          "bridge_volume": "2/3",
+          "overlap_bases": 3060,
+          "overlap_vertices": 6,
+          "overlap_volume": "5/192",
+          "sign": 1
+        }
+      ],
+      "name": "same corner one overlap, k=2",
+      "polar_bases_enumerated": 4845,
+      "polar_triangulation": {
+        "boundary_simplices": 69,
+        "nonzero_origin_cones": 69
+      },
+      "polar_volume": "1121/2592",
+      "primal_triangulation": {
+        "boundary_simplices": 60,
+        "nonzero_origin_cones": 60
+      },
+      "primal_volume": "88/3",
+      "product": "12331/972",
+      "q": [
+        "2",
+        "1",
+        "1",
+        "1"
+      ],
+      "r": [
+        "1",
+        "3",
+        "1",
+        "1"
+      ],
+      "vertices": 18
+    },
+    {
+      "dimension": 4,
+      "facets": 24,
+      "formula": {
+        "base_polar": "2/3",
+        "delta_minus": "2",
+        "delta_plus": "6",
+        "dimension": 4,
+        "naive_polar": "1339/6000",
+        "naive_primal": "36",
+        "overlap_minus": "11/108000",
+        "overlap_plus": "11/256",
+        "polar": "133621/432000",
+        "polar_overlap_correction": "37213/432000",
+        "primal": "124/3",
+        "primal_bridge": "16/3",
+        "product": "4142251/324000",
+        "single_cap_pairs": [
+          "3/16",
+          "32/125"
+        ]
+      },
+      "local_corrections": [
+        {
+          "bridge_volume": "2",
+          "overlap_bases": 3060,
+          "overlap_vertices": 6,
+          "overlap_volume": "11/256",
+          "sign": 1
+        },
+        {
+          "bridge_volume": "2/3",
+          "overlap_bases": 3060,
+          "overlap_vertices": 6,
+          "overlap_volume": "11/108000",
+          "sign": -1
+        }
+      ],
+      "name": "same corner two overlaps, k=2",
+      "polar_bases_enumerated": 4845,
+      "polar_triangulation": {
+        "boundary_simplices": 87,
+        "nonzero_origin_cones": 87
+      },
+      "polar_volume": "133621/432000",
+      "primal_triangulation": {
+        "boundary_simplices": 60,
+        "nonzero_origin_cones": 60
+      },
+      "primal_volume": "124/3",
+      "product": "4142251/324000",
+      "q": [
+        "3",
+        "1",
+        "1",
+        "1"
+      ],
+      "r": [
+        "1",
+        "4",
+        "1",
+        "1"
+      ],
+      "vertices": 18
+    },
+    {
+      "dimension": 4,
+      "facets": 18,
+      "formula": {
+        "base_polar": "2/3",
+        "delta_minus": "0",
+        "delta_plus": "7/5",
+        "dimension": 4,
+        "naive_polar": "92282/214455",
+        "naive_primal": "138/5",
+        "overlap_minus": "0",
+        "overlap_plus": "8/1785",
+        "polar": "2586/5887",
+        "polar_overlap_correction": "16/1785",
+        "primal": "428/15",
+        "primal_bridge": "14/15",
+        "product": "368936/29435",
+        "single_cap_pairs": [
+          "6/35",
+          "6498/100079"
+        ]
+      },
+      "local_corrections": [
+        {
+          "bridge_volume": "7/15",
+          "overlap_bases": 3060,
+          "overlap_vertices": 6,
+          "overlap_volume": "8/1785",
+          "sign": 1
+        }
+      ],
+      "name": "touch wall, k=2",
+      "polar_bases_enumerated": 4845,
+      "polar_triangulation": {
+        "boundary_simplices": 61,
+        "nonzero_origin_cones": 61
+      },
+      "polar_volume": "2586/5887",
+      "primal_triangulation": {
+        "boundary_simplices": 60,
+        "nonzero_origin_cones": 60
+      },
+      "primal_volume": "428/15",
+      "product": "368936/29435",
+      "q": [
+        "3",
+        "1/2",
+        "1",
+        "1"
+      ],
+      "r": [
+        "1/5",
+        "19/10",
+        "1",
+        "1"
+      ],
+      "vertices": 18
+    },
+    {
+      "dimension": 4,
+      "facets": 36,
+      "formula": {
+        "base_polar": "2/3",
+        "delta_minus": "3",
+        "delta_plus": "3",
+        "dimension": 4,
+        "naive_polar": "98/243",
+        "naive_primal": "32",
+        "overlap_minus": "1/486",
+        "overlap_plus": "1/486",
+        "polar": "100/243",
+        "polar_overlap_correction": "2/243",
+        "primal": "36",
+        "primal_bridge": "4",
+        "product": "400/27",
+        "single_cap_pairs": [
+          "32/243",
+          "32/243"
+        ]
+      },
+      "local_corrections": [
+        {
+          "bridge_volume": "1",
+          "overlap_bases": 3060,
+          "overlap_vertices": 6,
+          "overlap_volume": "1/486",
+          "sign": 1
+        },
+        {
+          "bridge_volume": "1",
+          "overlap_bases": 3060,
+          "overlap_vertices": 6,
+          "overlap_volume": "1/486",
+          "sign": -1
+        }
+      ],
+      "name": "axial calibration from v60",
+      "polar_bases_enumerated": 4845,
+      "polar_triangulation": {
+        "boundary_simplices": 152,
+        "nonzero_origin_cones": 152
+      },
+      "polar_volume": "100/243",
+      "primal_triangulation": {
+        "boundary_simplices": 72,
+        "nonzero_origin_cones": 72
+      },
+      "primal_volume": "36",
+      "product": "400/27",
+      "q": [
+        "3",
+        "0",
+        "0",
+        "0"
+      ],
+      "r": [
+        "0",
+        "3",
+        "0",
+        "0"
+      ],
+      "vertices": 20
+    },
+    {
+      "dimension": 4,
+      "facets": 32,
+      "formula": {
+        "base_polar": "2/3",
+        "delta_minus": "51/20",
+        "delta_plus": "53/20",
+        "dimension": 4,
+        "naive_polar": "5331782/14705145",
+        "naive_primal": "32",
+        "overlap_minus": "517162032/247548649985",
+        "overlap_plus": "102427376/34659826695",
+        "polar": "7767180863654704346/20842089005007241335",
+        "polar_overlap_correction": "14017977344991104/1389472600333816089",
+        "primal": "532/15",
+        "primal_bridge": "52/15",
+        "product": "31068723454618817384/2350611541918109925",
+        "single_cap_pairs": [
+          "2048/8645",
+          "800/11907"
+        ]
+      },
+      "local_corrections": [
+        {
+          "bridge_volume": "53/60",
+          "overlap_bases": 3060,
+          "overlap_vertices": 6,
+          "overlap_volume": "102427376/34659826695",
+          "sign": 1
+        },
+        {
+          "bridge_volume": "17/20",
+          "overlap_bases": 3060,
+          "overlap_vertices": 6,
+          "overlap_volume": "517162032/247548649985",
+          "sign": -1
+        }
+      ],
+      "name": "generic two-overlap input",
+      "polar_bases_enumerated": 4845,
+      "polar_triangulation": {
+        "boundary_simplices": 124,
+        "nonzero_origin_cones": 124
+      },
+      "polar_volume": "7767180863654704346/20842089005007241335",
+      "primal_triangulation": {
+        "boundary_simplices": 74,
+        "nonzero_origin_cones": 74
+      },
+      "primal_volume": "532/15",
+      "product": "31068723454618817384/2350611541918109925",
+      "q": [
+        "4",
+        "-3/4",
+        "-1",
+        "1/2"
+      ],
+      "r": [
+        "4/5",
+        "2",
+        "1/4",
+        "-1"
+      ],
+      "vertices": 20
+    },
+    {
+      "dimension": 4,
+      "facets": 28,
+      "formula": {
+        "base_polar": "2/3",
+        "delta_minus": "-3/4",
+        "delta_plus": "-3/4",
+        "dimension": 4,
+        "naive_polar": "3791/5852",
+        "naive_primal": "20",
+        "overlap_minus": "0",
+        "overlap_plus": "0",
+        "polar": "3791/5852",
+        "polar_overlap_correction": "0",
+        "primal": "20",
+        "primal_bridge": "0",
+        "product": "18955/1463",
+        "single_cap_pairs": [
+          "3/308",
+          "40/4389"
+        ]
+      },
+      "local_corrections": [],
+      "name": "nonoverlap input",
+      "polar_bases_enumerated": 4845,
+      "polar_triangulation": {
+        "boundary_simplices": 106,
+        "nonzero_origin_cones": 106
+      },
+      "polar_volume": "3791/5852",
+      "primal_triangulation": {
+        "boundary_simplices": 72,
+        "nonzero_origin_cones": 72
+      },
+      "primal_volume": "20",
+      "product": "18955/1463",
+      "q": [
+        "3/2",
+        "0",
+        "1/2",
+        "1/3"
+      ],
+      "r": [
+        "0",
+        "3/2",
+        "-1/4",
+        "2/5"
+      ],
+      "vertices": 20
+    },
+    {
+      "dimension": 4,
+      "facets": 24,
+      "formula": {
+        "base_polar": "2/3",
+        "delta_minus": "0",
+        "delta_plus": "0",
+        "dimension": 4,
+        "naive_polar": "797351/1375920",
+        "naive_primal": "24",
+        "overlap_minus": "0",
+        "overlap_plus": "0",
+        "polar": "797351/1375920",
+        "polar_overlap_correction": "0",
+        "primal": "24",
+        "primal_bridge": "0",
+        "product": "797351/57330",
+        "single_cap_pairs": [
+          "32/735",
+          "245/5616"
+        ]
+      },
+      "local_corrections": [],
+      "name": "simultaneous zero overlap boundary",
+      "polar_bases_enumerated": 4845,
+      "polar_triangulation": {
+        "boundary_simplices": 90,
+        "nonzero_origin_cones": 90
+      },
+      "polar_volume": "797351/1375920",
+      "primal_triangulation": {
+        "boundary_simplices": 72,
+        "nonzero_origin_cones": 72
+      },
+      "primal_volume": "24",
+      "product": "797351/57330",
+      "q": [
+        "2",
+        "0",
+        "1/3",
+        "-1/4"
+      ],
+      "r": [
+        "0",
+        "2",
+        "2/5",
+        "1/7"
+      ],
+      "vertices": 20
+    },
+    {
+      "dimension": 2,
+      "facets": 4,
+      "formula": {
+        "base_polar": "2",
+        "delta_minus": "1/8",
+        "delta_plus": "13/8",
+        "dimension": 2,
+        "naive_polar": "1827/3100",
+        "naive_primal": "29/3",
+        "overlap_minus": "3/16988",
+        "overlap_plus": "1521/27400",
+        "polar": "96/137",
+        "polar_overlap_correction": "47301/424700",
+        "primal": "137/12",
+        "primal_bridge": "7/4",
+        "product": "8",
+        "single_cap_pairs": [
+          "3/4",
+          "512/775"
+        ]
+      },
+      "local_corrections": [
+        {
+          "bridge_volume": "13/16",
+          "overlap_bases": 15,
+          "overlap_vertices": 3,
+          "overlap_volume": "1521/27400",
+          "sign": 1
+        },
+        {
+          "bridge_volume": "1/16",
+          "overlap_bases": 15,
+          "overlap_vertices": 3,
+          "overlap_volume": "3/16988",
+          "sign": -1
+        }
+      ],
+      "name": "dimension two overlap",
+      "polar_bases_enumerated": 28,
+      "polar_triangulation": {
+        "boundary_simplices": 4,
+        "nonzero_origin_cones": 4
+      },
+      "polar_volume": "96/137",
+      "primal_triangulation": {
+        "boundary_simplices": 4,
+        "nonzero_origin_cones": 4
+      },
+      "primal_volume": "137/12",
+      "product": "8",
+      "q": [
+        "5/2",
+        "1/2"
+      ],
+      "r": [
+        "1/4",
+        "7/3"
+      ],
+      "vertices": 4
+    },
+    {
+      "dimension": 3,
+      "facets": 18,
+      "formula": {
+        "base_polar": "4/3",
+        "delta_minus": "1/8",
+        "delta_plus": "13/8",
+        "dimension": 3,
+        "naive_polar": "12521931/16291678",
+        "naive_primal": "140/9",
+        "overlap_minus": "675/227692582",
+        "overlap_plus": "13689/1298948",
+        "polar": "19036078866340608/24105699740272241",
+        "polar_overlap_correction": "1558880272449/73940206000934",
+        "primal": "301/18",
+        "primal_bridge": "7/6",
+        "product": "136425231875441024/10331014174402389",
+        "single_cap_pairs": [
+          "135/442",
+          "28672/110577"
+        ]
+      },
+      "local_corrections": [
+        {
+          "bridge_volume": "13/24",
+          "overlap_bases": 120,
+          "overlap_vertices": 4,
+          "overlap_volume": "13689/1298948",
+          "sign": 1
+        },
+        {
+          "bridge_volume": "1/24",
+          "overlap_bases": 120,
+          "overlap_vertices": 4,
+          "overlap_volume": "675/227692582",
+          "sign": -1
+        }
+      ],
+      "name": "dimension three overlap",
+      "polar_bases_enumerated": 220,
+      "polar_triangulation": {
+        "boundary_simplices": 32,
+        "nonzero_origin_cones": 32
+      },
+      "polar_volume": "19036078866340608/24105699740272241",
+      "primal_triangulation": {
+        "boundary_simplices": 20,
+        "nonzero_origin_cones": 20
+      },
+      "primal_volume": "301/18",
+      "product": "136425231875441024/10331014174402389",
+      "q": [
+        "5/2",
+        "1/2",
+        "-1/3"
+      ],
+      "r": [
+        "1/4",
+        "7/3",
+        "2/5"
+      ],
+      "vertices": 12
+    }
+  ],
+  "status": "PASS",
+  "version": "v61",
+  "whole_segment_bernstein_certificates": 12
+}

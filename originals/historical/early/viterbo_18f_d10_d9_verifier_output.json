@@ -1,0 +1,43 @@
+{
+  "B6_action_size": 23040,
+  "certificate_counts": {
+    "2222": {
+      "inactive_column_loss": 19,
+      "rank_ge_5": 781,
+      "survivors": 21
+    },
+    "3221": {
+      "inactive_column_loss": 133,
+      "rank_ge_5": 2201,
+      "survivors": 134
+    }
+  },
+  "multiplicity_four": {
+    "kernel_patterns": {
+      "(0, 0, 0, 1, 1)": 1160,
+      "(0, 1, 1, 1, 1)": 480,
+      "(1, 1, 1, 1, 2)": 80
+    },
+    "rank_counts": {
+      "3": 100,
+      "4": 1720
+    }
+  },
+  "partition_check": {
+    "D10_partitions": 13,
+    "D9_partitions": 14,
+    "D9_unique_candidate": [
+      3,
+      2,
+      2,
+      2
+    ]
+  },
+  "status": "PASS",
+  "symbolic_survivors": {
+    "2222_17": "rank 4; two forced double rows",
+    "2222_20": "rank 4; doubles off wall, extra single on wall",
+    "3221_133": "rank 4; forced ninth single",
+    "D9": "unique 3222 orbit; v0 is in the relative interior of [-v1,-v2]"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "bytes_integrity_checked": 439499,
+  "earlier_mathematics_replayed": false,
+  "files_integrity_checked": 12,
+  "formal_proof_assistant_used": false,
+  "full_four_dimensional_Mahler_proved": false,
+  "logs": [
+    {
+      "byte_identical": true,
+      "script": "analytic_verifier.py",
+      "stdout": "{\"complete_terminal_cases\": 12, \"negative_coefficients\": 0, \"positive_coefficients\": 1092, \"status\": \"PASS\", \"zero_coefficients\": 391}"
+    },
+    {
+      "byte_identical": true,
+      "script": "geometry_verifier.py",
+      "stdout": "{\"dimension_counts\": {\"2\": 1, \"3\": 1, \"4\": 29}, \"double_dual_reconstructions\": 2, \"independent_bridge_hulls\": 27, \"independent_cap_intersections\": 27, \"independently_reconstructed_pairs\": 31, \"monotone_path_segments\": 6, \"status\": \"PASS\", \"whole_segment_bernstein_certificates\": 12}"
+    }
+  ],
+  "new_certificates_regenerated": 2,
+  "rebuild": true,
+  "status": "PASS",
+  "version": "v61"
+}

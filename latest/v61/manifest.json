@@ -1,0 +1,54 @@
+{
+  "date": "2026-09-27",
+  "files": {
+    "README.md": {
+      "bytes": 1973,
+      "sha256": "44a5d4076f2974304ca556b92a28abbb175230c771f01e2b3a2b7b8bd287ec43"
+    },
+    "analytic_certificate.json": {
+      "bytes": 308812,
+      "sha256": "97d8255eb37441d8944f16f2877679acfd7919a5cfa812e0a1bbc586b96ddfd6"
+    },
+    "analytic_verifier.py": {
+      "bytes": 8849,
+      "sha256": "9d5e06c76a5df4279ad57e14798744da43a1671a47a7949fb9cffc695b9288e0"
+    },
+    "descent.py": {
+      "bytes": 5523,
+      "sha256": "609a32f219becc8f3cb5f0f778fd27e181f93cc885c6021b3a934737fc28083e"
+    },
+    "exact_geometry.py": {
+      "bytes": 7614,
+      "sha256": "da53604fd15e3306fcdb5276c564d87ee8ef5d70eeee0f0d1ec85ee988677616"
+    },
+    "geometry_certificate.json": {
+      "bytes": 74893,
+      "sha256": "0c74c3127924253c2ac5a125dc9d03ddceef7d616ddf3f18c5882310530d27e2"
+    },
+    "geometry_verifier.py": {
+      "bytes": 7545,
+      "sha256": "1e34602770df50ed8c200d4c8445ea83ff62aa8193c844d1271539f38e4bc506"
+    },
+    "overlap_formula.py": {
+      "bytes": 2963,
+      "sha256": "e60af50fc166b7710ba8ccd78fd93b7ca3565e0948492110ce8d84f687cc3e44"
+    },
+    "provenance.json": {
+      "bytes": 772,
+      "sha256": "8b09754cb6d7f5ca95bac6769887b74bdf69879c37405c96536d480178e40039"
+    },
+    "replay.py": {
+      "bytes": 3086,
+      "sha256": "87a8975e96a23f0e8acd04cd3741fd815b570f383fc2d081a53b5bd2448d5b85"
+    },
+    "report_zh.md": {
+      "bytes": 17455,
+      "sha256": "37a77ed7e1b1079aa6560e976945e5c546a9ef3e3d960cc5dd8fc0f2f2b03917"
+    },
+    "requirements.txt": {
+      "bytes": 14,
+      "sha256": "25f9f1fb1988b230147a1d3092d34e09c069eb7a6c6d6df46b3973b9f2d36efc"
+    }
+  },
+  "version": "v61"
+}

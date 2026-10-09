@@ -1,0 +1,70 @@
+{
+  "date": "2026-08-16",
+  "scope": "4D centrally symmetric Mahler / symmetric Viterbo, bounded-12",
+  "status": {
+    "c1": "computer-assisted analytic proof candidate",
+    "c0_12V_12F": "closed candidate",
+    "c0_12V_14F": "closed candidate",
+    "c0_12V_16F": "closed candidate",
+    "c0_12V_18F_D13": "closed candidate",
+    "c0_12V_18F_D12": "closed candidate",
+    "c0_12V_18F_D11": "closed candidate",
+    "c0_12V_18F_D10": "open; reduced to residual extension certificates",
+    "c0_12V_18F_D9": "open"
+  },
+  "D12": {
+    "canonical_orbits": 355,
+    "duplicate_or_antipodal_columns": 332,
+    "forced_extra_single": 20,
+    "genuine_families": 3,
+    "families": {
+      "411": {
+        "count": 1,
+        "bernstein": {
+          "positive": 43,
+          "zero": 37,
+          "negative": 0,
+          "min_positive": "128/3"
+        }
+      },
+      "321": [
+        {
+          "positive": 39,
+          "zero": 11,
+          "negative": 0,
+          "min_positive": "8/3"
+        },
+        {
+          "positive": 22,
+          "zero": 6,
+          "negative": 0,
+          "min_positive": "16/3"
+        }
+      ]
+    }
+  },
+  "D11": {
+    "profiles": {
+      "4111": "excluded",
+      "3211": "excluded",
+      "2221": {
+        "canonical_orbits": 95,
+        "duplicate_or_antipodal_columns": 89,
+        "forced_extra_single": 3,
+        "primal_vertex_loss": 2,
+        "genuine_families": 1,
+        "bernstein": {
+          "degree": [
+            4,
+            4
+          ],
+          "positive": 19,
+          "zero": 6,
+          "negative": 0,
+          "min_positive": 12
+        }
+      }
+    }
+  },
+  "caveat": "All checkmarks denote computer-assisted analytic proof candidates; external review and a unified replayable certificate release are still required."
+}

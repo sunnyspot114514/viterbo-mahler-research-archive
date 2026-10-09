@@ -1,0 +1,49 @@
+{
+  "date": "2026-08-17",
+  "scope": "4D centrally symmetric Mahler / symmetric Viterbo, bounded-12",
+  "interpretation": "Every closed label is a computer-assisted analytic proof candidate, not a published theorem.",
+  "closed": {
+    "c1": true,
+    "c0_12V_12F": true,
+    "c0_12V_14F": true,
+    "c0_12V_16F": true,
+    "c0_12V_18F_D13": true,
+    "c0_12V_18F_D12": true,
+    "c0_12V_18F_D11": true,
+    "c0_12V_18F_D10": true,
+    "c0_12V_18F_D9": true,
+    "c0_12V_18F_all": true
+  },
+  "D10": {
+    "base_D11_2221_orbits": 95,
+    "extensions": {
+      "2222": {"orbits": 802, "rank_ge_5": 781, "survivors": 21, "inactive_column_loss": 19, "symbolic_families": 2},
+      "3221": {"orbits": 2335, "rank_ge_5": 2201, "survivors": 134, "inactive_column_loss": 133, "symbolic_families": 1}
+    },
+    "symbolic_outcomes": [
+      "two forced strict double rows",
+      "two strict doubles off a wall and a forced ninth single on the wall",
+      "a forced ninth single"
+    ],
+    "remaining_422": "excluded by the exact multiplicity-four finite classification and rank-three Gale inequalities"
+  },
+  "D9": {
+    "unique_profile": [3, 2, 2, 2],
+    "unique_orbit": true,
+    "outcome": "one nominal primal vertex pair lies in the relative interior of an edge; at most 10 extreme vertices"
+  },
+  "20F_D16_preclassification": {
+    "g2": 2,
+    "stacking_types": {
+      "hamming_1": {"automorphisms": 24, "raw_matchings": 371, "matching_orbits": 44, "canonical_templates": 39},
+      "hamming_2": {"automorphisms": 32, "raw_matchings": 457, "matching_orbits": 46, "canonical_templates": 37},
+      "new_facet": {"automorphisms": 12, "raw_matchings": 71, "matching_orbits": 19, "canonical_templates": 16}
+    },
+    "global_canonical_templates": 92,
+    "rank_ge_5": 72,
+    "duplicate_facet_rows": 6,
+    "algebraic_survivors": 14,
+    "survivor_indices": [2, 17, 42, 76, 80, 81, 82, 85, 86, 87, 88, 89, 90, 91],
+    "status": "open; exact semialgebraic and Mahler positivity analysis remains"
+  }
+}
