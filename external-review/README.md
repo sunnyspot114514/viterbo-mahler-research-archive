@@ -1,6 +1,6 @@
 # External Review of OpenAI Work
 
-This directory is separate from Xiwei Chen's original restricted-class research. The unchanged original archive is [originals/mahler_audit_20261007.zip](originals/mahler_audit_20261007.zip), dated 2026-10-07.
+This directory is separate from sunnyspot114514's original restricted-class research. The unchanged original archive is [originals/mahler_audit_20261007.zip](originals/mahler_audit_20261007.zip), dated 2026-10-07.
 
 It reviews OpenAI's [openai/math repository at commit adc7f1241b42e322a6451854ab7e4b4c146bf78a](https://github.com/openai/math/tree/adc7f1241b42e322a6451854ab7e4b4c146bf78a), specifically Family 087 and the symmetric polar-product proof chain. The archive contains audit_zh.md, diagnostics.py, diagnostics.json, and manifest.json. Consult the original report for its exact inspected files and source links.
 

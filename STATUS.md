@@ -1,6 +1,6 @@
 # Research Scope and Verification Status
 
-Packaging date: 2026-10-07. Author attribution: independent researcher Xiwei Chen, with AI assistance. The latest original-research snapshot is v61, dated 2026-09-27. Statements below describe what the archived reports claim, with their stated restrictions. They are not new mathematical validation.
+Packaging date: 2026-10-07. Author attribution: GitHub [sunnyspot114514](https://github.com/sunnyspot114514), with AI assistance. The latest original-research snapshot is v61, dated 2026-09-27. Statements below describe what the archived reports claim, with their stated restrictions. They are not new mathematical validation.
 
 ## v61 two exterior point pairs in four dimensions
 
@@ -49,7 +49,7 @@ Consequently this archive should be cited as research artifacts and restricted-c
 
 ## October 7 external review
 
-The separate archive in external-review/ concerns OpenAI's openai/math Family 087 at commit adc7f1241b42e322a6451854ab7e4b4c146bf78a. The archived review leans toward validity of the symmetric polar-product main proof chain. It did not perform a full Lean/Comparator replay, a complete transitive dependency-axiom scan, the non-symmetric Mahler proof, or a complete Hanner equality classification. Its local finite diagnostics are not a universal proof. This review does not retrospectively certify Xiwei Chen's earlier work or establish priority.
+The separate archive in external-review/ concerns OpenAI's openai/math Family 087 at commit adc7f1241b42e322a6451854ab7e4b4c146bf78a. The archived review leans toward validity of the symmetric polar-product main proof chain. It did not perform a full Lean/Comparator replay, a complete transitive dependency-axiom scan, the non-symmetric Mahler proof, or a complete Hanner equality classification. Its local finite diagnostics are not a universal proof. This review does not retrospectively certify sunnyspot114514's earlier work or establish priority.
 
 ## What was checked for this package
 
